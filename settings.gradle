@@ -1,0 +1,2 @@
+rootProject.name = "Religi App"
+include ':app'

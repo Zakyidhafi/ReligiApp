@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Religi App</string>
+    <string name="nama_rukun">Nama Rukun</string>
+    <string name="detail_rukun">Detail Rukun</string>
+    <string name="dalil">Dalil</string>
+    <string name="dalil_rukun">Dalil Rukun</string>
+    <string name="nama">Zaky Idhafi</string>
+    <string name="univ">UIN Sultan Syarif Kasim</string>
+    <string name="mahasiswa_teknik_informatika">Mahasiswa Teknik Informatika</string>
+    <string name="nama_email">zakyidhafi5@gmail.com</string>
+</resources>
